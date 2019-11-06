@@ -16,6 +16,7 @@ This sample shows how to build an MVC web application that performs identity man
 The app is a basic web application that performs three functions: sign-in, sign-up, and sign-out.  It is intended to help get you started with Azure AD B2C in a ASP.NET Core application, giving you the necessary tools to execute Azure AD B2C policies & securely identify uses in your application.  
 
 ## How To Run This Sample
+cQyo8wbg7tCbutOfLVuvysXA6+gWnZMusPakABiExfQ
 
 To run this sample you will need:
 
